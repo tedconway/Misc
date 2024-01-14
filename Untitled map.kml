@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Memphis</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=FmkwI5ItCFk"><img src="https://img.youtube.com/vi/FmkwI5ItCFk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/FmkwI5ItCFk">https://www.youtube.com/embed/FmkwI5ItCFk</a><br><br>I've Been to the Mountaintop (Memphis, 1968)]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/FmkwI5ItCFk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.0489801,35.1495343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
